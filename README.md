@@ -7,5 +7,6 @@ Common deps:
     matplotlib
     seaborn
     sklearn
+    pandas
     numpy
-    xgb
+    xgboost
